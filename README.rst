@@ -34,10 +34,9 @@ Notes and models for the 2018 Kaggle Data Science Bowl
 Features
 --------
 
-* TODO
+* TODO: Get this thing started!
 
-  Get this thing started!
-
+  
 Credits
 ---------
 
