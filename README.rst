@@ -26,7 +26,7 @@
 Nuclei
 ======
 
-2018 Kaggle Data Science Bowl
+Notes and models for the 2018 Kaggle Data Science Bowl
 
 * Documentation: https://nuclei.readthedocs.io.
 
@@ -35,6 +35,8 @@ Features
 --------
 
 * TODO
+
+  Get this thing started!
 
 Credits
 ---------
