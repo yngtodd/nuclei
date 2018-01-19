@@ -30,6 +30,38 @@ Notes and models for the 2018 Kaggle Data Science Bowl
 
 * Documentation: https://nuclei.readthedocs.io.
 
+.. highlight:: shell
+
+============
+Installation
+============
+
+Stable release
+--------------
+
+To install nuclei, run this command in your terminal:
+
+.. code-block:: console
+
+    pip install nuclei 
+
+This is the preferred method to install molecules, as it will always install the most recent stable release. 
+
+From sources
+------------
+
+To install the development version:
+
+.. code-block:: console
+
+    git clone git://github.com/yngtodd/nuclei
+
+
+Once you have a copy of the source, you can install it with:
+
+.. code-block:: console
+
+    python setup.py install
 
 Features
 --------
