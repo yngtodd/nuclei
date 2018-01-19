@@ -1,7 +1,12 @@
-======
-nuclei
-======
+.. raw:: html
 
+    <embed>
+        <p align="center">
+            <img width="300" src="https://github.com/yngtodd/nuclei/blob/master/img/nuclei.png">
+        </p>
+    </embed>
+
+---------------------------
 
 .. image:: https://img.shields.io/pypi/v/nuclei.svg
         :target: https://pypi.python.org/pypi/nuclei
@@ -17,11 +22,12 @@ nuclei
      :target: https://pyup.io/repos/github/yngtodd/nuclei/
      :alt: Updates
 
+======
+Nuclei
+======
 
 2018 Kaggle Data Science Bowl
 
-
-* Free software: MIT license
 * Documentation: https://nuclei.readthedocs.io.
 
 
