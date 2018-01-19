@@ -6,7 +6,8 @@ Nuclei is a library for the 2018 Kaggle Data Science Bowl.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   introduction
    installation
    usage
    modules
