@@ -1,7 +1,7 @@
-Molecules Documentation
+Nuclei Documentation
 =======================
 
-Molecules is a machine learning library for molecular dynamics.
+Nuclei is a library for the 2018 Kaggle Data Science Bowl.
 
 .. toctree::
    :maxdepth: 2
