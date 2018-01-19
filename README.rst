@@ -45,7 +45,7 @@ To install nuclei, run this command in your terminal:
 
     pip install nuclei 
 
-This is the preferred method to install molecules, as it will always install the most recent stable release. 
+This will give you the most recent stable release of nuclei. 
 
 From sources
 ------------
