@@ -5,7 +5,9 @@ Credits
 Development Lead
 ----------------
 
-* Todd Young <young.todd.mk@gmail.com>
+* Todd Young:
+  `@YoungMTodd <https://twitter.com/YoungMTodd>` 
+  young.todd.mk@gmail.com
 
 Contributors
 ------------
