@@ -6,8 +6,8 @@ Development Lead
 ----------------
 
 * Todd Young:
-  `@YoungMTodd <https://twitter.com/YoungMTodd>` 
-  young.todd.mk@gmail.com
+        `@YoungMTodd <https://twitter.com/YoungMTodd>`_ 
+        young.todd.mk@gmail.com
 
 Contributors
 ------------
