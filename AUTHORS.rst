@@ -6,6 +6,7 @@ Development Lead
 ----------------
 
 * Todd Young:
+        | GitHub: `yngtodd <https://github.com/yngtodd>`_
         | Twitter: `@YoungMTodd <https://twitter.com/YoungMTodd>`_ 
         | Email: young.todd.mk@gmail.com
 
