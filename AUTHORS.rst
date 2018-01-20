@@ -2,7 +2,7 @@
 Credits
 =======
 
-Development Lead
+Development Team
 ----------------
 
 * Todd Young:
