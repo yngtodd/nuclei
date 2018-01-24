@@ -13,7 +13,6 @@ Related Work
 Papers
 ------
 
-.. bibliography:: references.bib
 
 Blogs and Wikis
 ---------------
