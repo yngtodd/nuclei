@@ -24,7 +24,7 @@ class InConv(nn.Module):
 
     def __init__(self, in_ch, out_ch):
         super(InConv, self).__init__()
-        self.conv = double_conv(in_ch, out_ch)
+        self.conv = DoubleBlock(in_ch, out_ch)
 
     def forward(self, x):
         return self.conv(x)
