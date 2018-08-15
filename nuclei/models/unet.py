@@ -1,3 +1,5 @@
+import torch
+
 from torch import nn
 import torch.nn.functional as F
 
@@ -62,7 +64,7 @@ class Up(nn.Module):
         diffY = x1.size()[3] - x2.size()[3]
         x2 = F.pad(x2, (diffX // 2, int(diffX / 2),
                         diffY // 2, int(diffY / 2)))
-        x = t.cat([x2, x1], dim=1)
+        x = torch.cat([x2, x1], dim=1)
         x = self.conv(x)
         return x
 
@@ -103,5 +105,5 @@ class UNet(nn.Module):
         x = self.up3(x, x2)
         x = self.up4(x, x1)
         x = self.outconv(x)
-        x = t.nn.functional.sigmoid(x)
+        x = F.sigmoid(x)
         return x
